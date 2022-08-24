@@ -5,9 +5,20 @@
 }
 
 .skill-name {
+  position: relative;
   font-size: 1rem;
   color: #727272;
-  padding-bottom: 54px;
+  padding-bottom: 55px;
+}
+
+.skill-name::after {
+  content: '';
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  border-bottom: 3px solid #34547A;
+  box-shadow: 90px 0px #C4C4C4;
+  width: 350px;
 }
 
 .img-face-position {
