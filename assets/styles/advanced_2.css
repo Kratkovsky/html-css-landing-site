@@ -1,0 +1,38 @@
+.want-site {
+  text-align: center;
+  margin: 186px 0px;
+  padding-top: 100px;
+  background-color: #EEEFF1;
+}
+
+.sub-heading-want-site {
+  margin-bottom: 50px;
+}
+
+.form {
+  margin-top: 65px;
+}
+
+.name-email {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 17px 89px 18px 20px;
+}
+
+.email {
+  margin-left: 30px;
+}
+
+.message {
+  padding: 17px 430px 143px 20px;
+}
+
+.btn {
+  min-width: 190px;
+  min-height: 55px;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 205px;
+  font-size: 14px;
+  color: #ffff;
+}
