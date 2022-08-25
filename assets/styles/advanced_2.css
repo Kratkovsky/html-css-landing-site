@@ -37,3 +37,10 @@
   font-size: 14px;
   color: #ffff;
 }
+
+@media screen and (max-width: 1399px) {
+  .name-email {
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+}
