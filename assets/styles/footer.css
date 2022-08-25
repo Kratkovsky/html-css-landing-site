@@ -1,0 +1,30 @@
+.footer {
+  background: #34547A;
+  min-height: 150px;
+}
+
+.footer-flex-container {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.footer-name {
+  font-size: 21px;
+  color: white;
+}
+
+.footer-name,
+.footer-img {
+  margin-top: 75px;
+}
+
+.footer-rights {
+  font-size: 13px;
+  color: white;
+  padding-top: 20px;
+}
+
+.footer-img {
+  padding-right: 21px;
+}

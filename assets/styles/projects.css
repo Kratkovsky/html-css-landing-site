@@ -1,0 +1,18 @@
+.projects {
+  min-height: 250px;
+  background: #34547A;
+}
+
+.test-1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.projects-text {
+  color: white;
+}
+
+.projects-img {
+  margin-top: 125px;
+  margin-bottom: 125px;
+}
