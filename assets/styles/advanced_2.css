@@ -32,7 +32,8 @@
   min-height: 55px;
   padding: 20px;
   margin-top: 50px;
-  margin-bottom: 205px;
+  margin-bottom: 100px;
+  border-color: transparent;
   font-size: 14px;
   color: #ffff;
 }
